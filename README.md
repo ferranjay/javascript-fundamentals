@@ -4,19 +4,15 @@ javascript practice
 Lessons:
 
 1.  Variables - var, let & const:
-
     Files: index.html + app.v1.js
     
 2.  Data Types in JavaScript:
-
     Files: index.html + app.v2.js
 
 3.  Type Conversion:
-
     Files: index.html + app.v3.js
     
 4.  Numbers & The Math Object:
-
     Files: index.html + app.v4.js
 
 5.  String Methods & Concatenation:
