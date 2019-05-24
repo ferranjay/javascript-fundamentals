@@ -1,5 +1,6 @@
 # javascript-fundamentals
-javascript practice
+
+basic javascript language
 
 Lessons:
 
