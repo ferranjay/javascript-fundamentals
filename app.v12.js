@@ -1,4 +1,4 @@
-// FUNCTION DECLERATIONS
+// FUNCTION DECLARATIONS
 
 function hi(){
     console.log('hello');

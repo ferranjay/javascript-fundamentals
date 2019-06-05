@@ -1,3 +1,5 @@
+// CONCATENATION , SAMENVOEGEN
+
 const firstName = 'William';
 const lastName = 'Johnson';
 const age = 36;

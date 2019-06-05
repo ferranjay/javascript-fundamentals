@@ -1,4 +1,4 @@
-// var, let, const
+// VARIABLES VAR, LET , CONST
 
 // var name = 'John Doe';
 // console.log(name);

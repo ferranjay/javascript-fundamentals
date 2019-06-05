@@ -1,4 +1,4 @@
-// PRIMITIVE
+// DATA TYPES
 
 // String
 const name = 'John Doe';

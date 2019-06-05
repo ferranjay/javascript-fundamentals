@@ -1,4 +1,4 @@
-// object literal
+// OBJECT LITERALS
 
 const person = {
     firstName: 'Steve',

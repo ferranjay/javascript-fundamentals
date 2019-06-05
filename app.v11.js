@@ -1,3 +1,5 @@
+// SWITCHES
+
 const color = 'red';
 
 switch(color){
